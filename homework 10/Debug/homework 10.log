@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\OneDrive - Cal Poly Pomona\ece 1310 c for engineers\homework 10\main.cpp(92,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  homework 10.vcxproj -> D:\OneDrive - Cal Poly Pomona\ece 1310 c for engineers\homework 10\Debug\homework 10.exe

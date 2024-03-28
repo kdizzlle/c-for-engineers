@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\OneDrive - Cal Poly Pomona\ece 1310 c for engineers\hw 13 6.10 salesperson salary ranges\main.cpp(35,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\OneDrive - Cal Poly Pomona\ece 1310 c for engineers\hw 13 6.10 salesperson salary ranges\main.cpp(69): warning C4715: 'SalaryRange': not all control paths return a value
+  hw 13 6.10 salesperson salary ranges.vcxproj -> D:\OneDrive - Cal Poly Pomona\ece 1310 c for engineers\hw 13 6.10 salesperson salary ranges\Debug\hw 13 6.10 salesperson salary ranges.exe

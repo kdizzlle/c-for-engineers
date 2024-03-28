@@ -1,0 +1,5 @@
+﻿  basic template.cpp
+C:\Users\kelly\OneDrive - Cal Poly Pomona\ece 1310 c for engineers\pass by reference practice\basic template.cpp(43,1): error C2556: 'double sum(int &,int,int &)': overloaded function differs only by return type from 'void sum(int &,int,int &)'
+C:\Users\kelly\OneDrive - Cal Poly Pomona\ece 1310 c for engineers\pass by reference practice\basic template.cpp(34): message : see declaration of 'sum'
+C:\Users\kelly\OneDrive - Cal Poly Pomona\ece 1310 c for engineers\pass by reference practice\basic template.cpp(42,8): error C2371: 'sum': redefinition; different basic types
+C:\Users\kelly\OneDrive - Cal Poly Pomona\ece 1310 c for engineers\pass by reference practice\basic template.cpp(34): message : see declaration of 'sum'

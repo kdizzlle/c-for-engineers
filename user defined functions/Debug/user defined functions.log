@@ -1,0 +1,15 @@
+﻿  basic template.cpp
+C:\Users\kelly\OneDrive - Cal Poly Pomona\ece 1310 c for engineers\user defined functions\basic template.cpp(45,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\kelly\OneDrive - Cal Poly Pomona\ece 1310 c for engineers\user defined functions\basic template.cpp(45,8): error C2146: syntax error: missing ';' before identifier 'BMItype'
+C:\Users\kelly\OneDrive - Cal Poly Pomona\ece 1310 c for engineers\user defined functions\basic template.cpp(46,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\kelly\OneDrive - Cal Poly Pomona\ece 1310 c for engineers\user defined functions\basic template.cpp(46,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\kelly\OneDrive - Cal Poly Pomona\ece 1310 c for engineers\user defined functions\basic template.cpp(165,16): error C2872: 'string': ambiguous symbol
+C:\Users\kelly\OneDrive - Cal Poly Pomona\ece 1310 c for engineers\user defined functions\basic template.cpp(45,1): message : could be 'int string'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(4871,7): message : or       'std::string'
+C:\Users\kelly\OneDrive - Cal Poly Pomona\ece 1310 c for engineers\user defined functions\basic template.cpp(165,25): error C2872: 'string': ambiguous symbol
+C:\Users\kelly\OneDrive - Cal Poly Pomona\ece 1310 c for engineers\user defined functions\basic template.cpp(45,1): message : could be 'int string'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(4871,7): message : or       'std::string'
+C:\Users\kelly\OneDrive - Cal Poly Pomona\ece 1310 c for engineers\user defined functions\basic template.cpp(165,16): error C2146: syntax error: missing ';' before identifier 'category'
+C:\Users\kelly\OneDrive - Cal Poly Pomona\ece 1310 c for engineers\user defined functions\basic template.cpp(165,16): error C2065: 'category': undeclared identifier
+C:\Users\kelly\OneDrive - Cal Poly Pomona\ece 1310 c for engineers\user defined functions\basic template.cpp(165,27): error C3861: 'BMItype': identifier not found
+C:\Users\kelly\OneDrive - Cal Poly Pomona\ece 1310 c for engineers\user defined functions\basic template.cpp(168,33): error C2065: 'category': undeclared identifier
