@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\OneDrive - Cal Poly Pomona\ece 1310\group proj 01\main.cpp(123,19): warning C4804: '<': unsafe use of type 'bool' in operation
+D:\OneDrive - Cal Poly Pomona\ece 1310\group proj 01\main.cpp(125,17): warning C4804: '<': unsafe use of type 'bool' in operation
+  group proj 01.vcxproj -> D:\OneDrive - Cal Poly Pomona\ece 1310\group proj 01\Debug\group proj 01.exe
